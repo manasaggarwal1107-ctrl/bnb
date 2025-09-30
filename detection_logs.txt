@@ -1,0 +1,113 @@
+2025-03-20 15:59:37 - Email sent successfully.
+2025-03-20 15:59:38 - Sound played.
+2025-03-20 16:12:51 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.246.172:5000
+2025-03-20 16:12:51 - [33mPress CTRL+C to quit[0m
+2025-03-20 16:12:52 -  * Restarting with watchdog (windowsapi)
+2025-03-20 16:13:06 -  * Debugger is active!
+2025-03-20 16:13:06 -  * Debugger PIN: 863-382-221
+2025-03-20 16:22:27 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.246.172:5000
+2025-03-20 16:22:27 - [33mPress CTRL+C to quit[0m
+2025-03-20 16:22:27 -  * Restarting with watchdog (windowsapi)
+2025-03-20 16:22:30 -  * Debugger is active!
+2025-03-20 16:22:31 -  * Debugger PIN: 863-382-221
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ø\x8f¼û7ÕC\x0b\x9f\x04ÊU\x91\x04Ðá\x00\x03ü;Ú½x\x10¢è:9"\x0dÏ¡ \x9eQßË3\x84z >á©\x09:ù\x0e)ò¬?DL$,\x87¾\x02AÌ\x8cÐî¼\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Û´p_ýïõ\x81{ú\x8ez.Eöª"{eÅ\x9f\x01âR|V$¢\x8f\x98\x91r 'eþ*Dp\x90ÄMZ\x1dz¸\x9a\x99Õ) \x00ÚªÈ]÷\x81¾\x96ÝêzÙ[\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x8b+Ã\x00mBG\x90Y')
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x8b+Ã\x00mBG\x90Y[0m" HTTPStatus.BAD_REQUEST -
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x88.ÄÈ')
+2025-03-20 16:25:41 - 192.168.246.109 - - [20/Mar/2025 16:25:41] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x88.ÄÈ[0m" HTTPStatus.BAD_REQUEST -
+2025-03-20 16:28:23 - 192.168.246.109 - - [20/Mar/2025 16:28:23] "GET / HTTP/1.1" 200 -
+2025-03-20 16:28:24 - 192.168.246.109 - - [20/Mar/2025 16:28:24] "GET /video_feed HTTP/1.1" 200 -
+2025-03-20 16:28:24 - 192.168.246.109 - - [20/Mar/2025 16:28:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-20 16:36:58 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.246.172:5000
+2025-03-20 16:36:58 - [33mPress CTRL+C to quit[0m
+2025-03-20 16:37:13 -  * Restarting with watchdog (windowsapi)
+2025-03-20 16:37:43 -  * Debugger is active!
+2025-03-20 16:37:43 -  * Debugger PIN: 863-382-221
+2025-03-20 16:37:59 - 192.168.246.109 - - [20/Mar/2025 16:37:59] "GET / HTTP/1.1" 200 -
+2025-03-20 16:37:59 - 192.168.246.109 - - [20/Mar/2025 16:37:59] "GET / HTTP/1.1" 200 -
+2025-03-20 16:38:00 - 192.168.246.109 - - [20/Mar/2025 16:38:00] "GET /video_feed HTTP/1.1" 200 -
+2025-03-20 16:39:18 - Email sent successfully.
+2025-03-20 16:39:19 - Sound played.
+2025-03-20 16:40:20 - Email sent successfully.
+2025-03-20 16:40:20 - Sound played.
+2025-03-21 04:38:18 - Email failed: [Errno 11001] getaddrinfo failed
+2025-03-21 04:38:18 - Sound played.
+2025-03-21 04:38:27 - Email failed: [Errno 11001] getaddrinfo failed
+2025-03-21 04:38:27 - Sound played.
+2025-03-21 04:39:16 - Email failed: [Errno 11001] getaddrinfo failed
+2025-03-21 04:39:16 - Sound played.
+2025-03-21 04:39:53 - Email failed: [Errno 11001] getaddrinfo failed
+2025-03-21 04:39:53 - Sound played.
+2025-03-21 04:40:06 - Email failed: [Errno 11001] getaddrinfo failed
+2025-03-21 04:40:06 - Sound played.
+2025-03-21 06:40:16 - Email sent successfully.
+2025-03-21 06:40:20 - Sound played.
+2025-03-21 06:40:55 - Email sent successfully.
+2025-03-21 06:40:56 - Sound played.
+2025-03-21 06:41:08 - Email sent successfully.
+2025-03-21 06:41:08 - Sound played.
+2025-03-21 06:42:19 - Email sent successfully.
+2025-03-21 06:42:19 - Sound played.
+2025-03-21 06:42:36 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.162.74:5000
+2025-03-21 06:42:36 - [33mPress CTRL+C to quit[0m
+2025-03-21 06:42:36 -  * Restarting with watchdog (windowsapi)
+2025-03-21 06:42:39 -  * Debugger is active!
+2025-03-21 06:42:39 -  * Debugger PIN: 863-382-221
+2025-03-21 06:49:54 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.162.74:5000
+2025-03-21 06:49:54 - [33mPress CTRL+C to quit[0m
+2025-03-21 06:49:54 -  * Restarting with watchdog (windowsapi)
+2025-03-21 06:49:56 -  * Debugger is active!
+2025-03-21 06:49:56 -  * Debugger PIN: 863-382-221
+2025-03-21 06:51:15 - Email sent successfully.
+2025-03-21 06:51:16 - Sound played.
+2025-03-21 06:51:53 - Email sent successfully.
+2025-03-21 06:51:53 - Sound played.
+2025-03-21 06:52:19 - Email sent successfully.
+2025-03-21 06:52:19 - Sound played.
+2025-03-21 06:52:34 - Email sent successfully.
+2025-03-21 06:52:34 - Sound played.
+2025-03-21 06:52:50 - Email sent successfully.
+2025-03-21 06:52:50 - Sound played.
+2025-03-21 06:53:05 - Email sent successfully.
+2025-03-21 06:53:05 - Sound played.
+2025-03-21 06:53:13 - Email sent successfully.
+2025-03-21 06:53:13 - Sound played.
+2025-03-21 06:53:45 - Email sent successfully.
+2025-03-21 06:53:45 - Sound played.
+2025-03-21 06:53:56 - Email sent successfully.
+2025-03-21 06:53:56 - Sound played.
+2025-03-21 06:54:52 - Email sent successfully.
+2025-03-21 06:54:52 - Sound played.
+2025-03-21 06:55:06 - Email sent successfully.
+2025-03-21 06:55:06 - Sound played.
+2025-03-21 06:55:14 -  * Detected change in 'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\threading.py', reloading
+2025-03-21 06:55:17 -  * Restarting with watchdog (windowsapi)
+2025-03-21 06:57:18 - Email sent successfully.
+2025-03-21 06:57:19 - Sound played.
+2025-03-21 06:58:07 - Email sent successfully.
+2025-03-21 06:58:07 - Sound played.
+2025-03-21 07:06:45 - Email sent successfully.
+2025-03-21 07:06:45 - Sound played.
+2025-03-21 07:12:04 - Email sent successfully.
+2025-03-21 07:12:04 - Sound played.
+2025-03-21 11:49:23 - Email sent successfully.
+2025-03-21 11:49:23 - Sound played.
+2025-03-21 11:49:40 - Email sent successfully.

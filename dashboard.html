@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Eye Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #00ff00;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .logs {
+            background-color: #2e2e2e;
+            padding: 20px;
+            border-radius: 10px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .log-entry {
+            margin-bottom: 10px;
+        }
+        .video-feed {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Project Eye - Detection Logs</h1>
+    <div class="logs">
+        {% for log in logs %}
+            <div class="log-entry">{{ log }}</div>
+        {% endfor %}
+    </div>
+    <div class="video-feed">
+        <h2>Live Video Feed</h2>
+        <img src="{{ url_for('video_feed') }}" alt="Live Video Feed">
+    </div>
+</body>
+</html>
